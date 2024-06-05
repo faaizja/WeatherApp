@@ -4,4 +4,5 @@ A simple weather app written in Java that fetches weather/temperature informatio
 APIs:
 
 https://open-meteo.com/en/docs#latitude=33.767&longitude=-118.1892
+
 https://open-meteo.com/en/docs/geocoding-api
